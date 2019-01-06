@@ -195,6 +195,8 @@ nav .navbar{
 }
 footer{
 	margin-top:20px;
+	background-color: silver;
+	height:auto;
 
 }
 footer h3{
@@ -204,6 +206,9 @@ footer h3{
 
 
 }
+footer p{
+	text-align: center;
+	}
 #container .sidebar{
 	float: left;
 	width: 20%;
