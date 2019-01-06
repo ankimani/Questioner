@@ -195,12 +195,7 @@ nav .navbar{
 }
 footer{
 	margin-top:20px;
-	background:darkgray;
-	min-height:auto;
-}
-footer p{
-	text-align: center;
-	font-weight: lighter;
+
 }
 footer h3{
 	text-align: center;
