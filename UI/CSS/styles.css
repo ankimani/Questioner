@@ -48,6 +48,7 @@ body{
 .container .rightbar{
 	float:right;
 	width:50%;
+	padding: 100px;
 	min-height:400px;
 	box-sizing: border-box;
 	
@@ -59,8 +60,7 @@ body{
 }
 
 .form1{
-	width: 100%;
-	padding:80px 40px;
+	width: 50%;
 	box-sizing: border-box;
 	min-height: 400px;
 	background:#fff;
@@ -195,13 +195,7 @@ nav .navbar{
 }
 footer{
 	margin-top:20px;
-	background:darkgray;
-	height:auto;
-}
-footer p{
-	text-align: center;
-	
-	
+
 }
 footer h3{
 	text-align: center;
